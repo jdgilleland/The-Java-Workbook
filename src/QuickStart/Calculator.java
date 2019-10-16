@@ -33,5 +33,6 @@ class Calculator {
   private static void subtract(int lh, int rh) {
     int result = lh - rh;
     System.out.println("The result of subtracting is " + result);
+    
   }
 }

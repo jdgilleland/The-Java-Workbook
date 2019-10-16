@@ -17,7 +17,9 @@ class StartHere {
     int result; // declare a variable
     result = add(5, 2); // this is a method call.
     // TODO: Write the line of code that outputs the calculated result.
+    System.out.println(result);
   }
+
 
   /* The method syntax follows this pattern
   accessModifier static returnType methodName(parameterList) {
