@@ -39,4 +39,13 @@ You can start learning Java without having to install anything on your computer.
 - [**Functions**](https://www.learnjavaonline.org/en/Functions)
 - [**Objects**](https://www.learnjavaonline.org/en/Objects)
 
+## Getting Serious About Coding
+
+- Get a GitHub Account
+- Choose your Coding Tools
+- Get a good Java book from the library - [Head First Java](https://epl.bibliocommons.com/item/show/678215005) at the Edmonton Public Library
+  - Use the [supplied folder](./src/Head&#32;First&#32;Java/) in this repository as a place to put the code you write from this book.
+
 ## Reading and Writing Code
+
+- [ ] Begin with the [QuickStart](./src/QuickStart/ReadMe.md) samples.
