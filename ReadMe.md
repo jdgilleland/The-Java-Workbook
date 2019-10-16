@@ -47,3 +47,5 @@ You can start learning Java without having to install anything on your computer.
   - Use the [supplied folder](./src/Head&#32;First&#32;Java/) in this repository as a place to put the code you write from this book.
 
 ## Reading and Writing Code
+
+- [ ] Begin with the [QuickStart](./src/QuickStart/ReadMe.md) samples.
